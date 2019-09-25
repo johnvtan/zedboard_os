@@ -14,4 +14,5 @@ specific version of QEMU, and/or a ZedBoard with a specific FPGA build.
 This is a simple pre-emptive multitasking kernel that impelements all tasks in a single shared flat memory space. There
 is very little kernel/user separation.
 
-Documentation for the internal design and API of the kernel can be found [here](https://docs.google.com/document/d/18sXmxzo7YyZr7R91Oic_56EAQsgoXOu1wLV_5C1wiNw/edit?usp=sharing).
+Documentation for the internal design and API of the kernel can be found in the paper I wrote at the end of the semester,
+in `documentation.pdf`.
