@@ -7,8 +7,8 @@ by the Xilinx SDK, but contain some small changes.
 
 This code was originally hosted on a private repo owned by my school but was recently moved over to this location.
 
-**Note** This will most likely only build/run for me since it requires a specific configuration of the Xilinx SDK, a
-specific version of QEMU, and/or a ZedBoard with a specific FPGA build.
+**Note This will most likely only build/run for me since it requires a specific configuration of the Xilinx SDK, a
+specific version of QEMU, and/or a ZedBoard with a specific FPGA build.**
 
 # Documentation
 This is a simple pre-emptive multitasking kernel that impelements all tasks in a single shared flat memory space. There
